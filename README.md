@@ -12,7 +12,7 @@ I'm Mahendra Etampawala. I Spend most of time coding outstanding projects .
 
 <!-- TODO: Add last video link -->
 
-- :mortar_board: I’m currently learning.
+- :mortar_board: I am a QA Engineer.
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - :fast_forward: mahendraetampawala98@gmail.com.
 
